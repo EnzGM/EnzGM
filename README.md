@@ -5,6 +5,6 @@
 <div>
   <a href="https://www.linkedin.com/in/enzo-gabriel-miranda-0755b9389/">
     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EnzGM&&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/>(https://github.com/anuraghazra/github-readme-stats)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EnzGM&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/>
 </div>
 
