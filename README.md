@@ -4,6 +4,7 @@
 
 <div>
   <a href="https://www.linkedin.com/in/enzo-gabriel-miranda-0755b9389/">
+    
   [![Status do Enzo no Github](https://github-readme-stats.vercel.app/api?username=EnzGM&&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
