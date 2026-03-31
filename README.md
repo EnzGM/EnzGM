@@ -3,6 +3,6 @@
 - 📫 Contate me no email enzoblu.ti@gmail.com
 
 <div> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EnzGM&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=EnzGM&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/>
 </div>
 
